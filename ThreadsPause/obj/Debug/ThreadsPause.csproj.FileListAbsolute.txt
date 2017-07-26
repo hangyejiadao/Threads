@@ -1,0 +1,9 @@
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\bin\Debug\ThreadsPause.exe.config
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\bin\Debug\ThreadsPause.exe
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\bin\Debug\ThreadsPause.pdb
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\obj\Debug\ThreadsPause.csprojResolveAssemblyReference.cache
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\obj\Debug\ThreadsPause.Form1.resources
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\obj\Debug\ThreadsPause.Properties.Resources.resources
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\obj\Debug\ThreadsPause.csproj.GenerateResource.Cache
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\obj\Debug\ThreadsPause.exe
+E:\Net\ThreadsPause\Threads\trunk\ThreadsPause\obj\Debug\ThreadsPause.pdb
