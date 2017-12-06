@@ -50,7 +50,7 @@ namespace ThreadPause
                     are.WaitOne();
                 }
                 i++; 
-                label1.Invoke(new Action(() =>
+                Invoke(new Action(() =>
                 {
                     label1.Text = i.ToString();
                 }));
